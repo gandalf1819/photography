@@ -1,5 +1,13 @@
 # Photography portfolio
+
 Check out my shots at [gshots](https://gandalf1819.github.io/photography)
 
+Here's my photography portfolios on Behance and 500px:
+
+Behance: https://www.behance.net/chinmayw<br>
+500px: https://500px.com/chinmaynw<br>
+
+Let me know your thoughts or any suggestions!
+
 ## Credits
-Thanks to [rampatra](https://github.com/rampatra) for the website template 
+Thanks to [rampatra](https://github.com/rampatra) for this amazing template! :)
