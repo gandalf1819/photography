@@ -1,5 +1,7 @@
 # Photography portfolio
 
+![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+
 Check out my shots at [gshots](https://gandalf1819.github.io/photography):
 
 https://gandalf1819.github.io/photography
